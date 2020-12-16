@@ -5,6 +5,7 @@
     + [WWDC](#wwdc)
     + [Newsletter](#newsletter)
     + [Book](#book)
+    + [Course](#course)
     + [Learning](#learning)
   * [Articles](#articles)
     + [Implementation](#implementation)
@@ -63,6 +64,10 @@
 
 - [Thinking in SwiftUI](https://www.objc.io/books/thinking-in-swiftui/) -  It is not a reference for SwiftUI’s platform-specific APIs, but rather a guide to honing your intuition about how SwiftUI works.
 - [SwiftUI by Tutorials](https://www.raywenderlich.com/books/swiftui-by-tutorials/v2.0) - Build fluid and engaging declarative UI for your apps with way less coding with SwiftUI! SwiftUI by Tutorials
+
+### Course
+
+- [SwiftUI for iOS 14](https://designcode.io/swiftui-ios14) - Build a multi-platform app from scratch using the new techniques in iOS 14. We'll use the Sidebar and Lazy Grids to make the layout adaptive for iOS, iPadOS, macOS Big Sur
 
 ### Learning
 
