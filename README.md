@@ -57,13 +57,19 @@
 - [F* SwiftUI](https://fuckingswiftui.com/) - A curated list of questions and answers about SwiftUI.
 - [The SwiftUI Lab](https://swiftui-lab.com/) - Advanced insights into SwiftUI
 - [Netsplit SwiftUI](https://netsplit.com/swiftui)
+- [SwiftUI by examples](https://www.hackingwithswift.com/quick-start/swiftui) - SwiftUI by Example is the world's largest collection of SwiftUI examples, tips, and techniques giving you over 400 pages of hands-on code
 
 ## Articles
+
+### Build
+
+- [Animating complex shapes in SwiftUI](https://nerdyak.tech/development/2020/01/12/animating-complex-shapes-in-swiftui.html)
+- [TikTok logo-ish effect in SwiftUI](https://nerdyak.tech/development/2020/06/12/create-tiktok-logo-effect-in-swiftui.html)
+- [Building a Multi-platform App with SwiftUI](https://heartbeat.fritz.ai/building-a-multi-platform-app-with-swiftui-5336bce94689)
 
 ### Internal
 
 - [Re-implementation of Binding and State](https://gist.github.com/AliSoftware/ecb5dfeaa7884fc0ce96178dfdd326f8) - A concept re-implementation of the @Binding and @State property wrappers from SwiftUI
-- [SwiftUI View Lifecycle](https://www.vadimbulavin.com/swiftui-view-lifecycle/) - Explore the three phases of the SwiftUI view lifecycle.
 - [SwiftUI and UIKit interoperability](https://www.swiftbysundell.com/articles/swiftui-and-uikit-interoperability-part-1/)
 
 ### Layout
@@ -71,10 +77,23 @@
 - [How an Hstack Lays out Its Children](https://www.objc.io/blog/2020/11/09/hstacks-child-ordering/)
 - [SwiftUI Layout System](https://kean.blog/post/swiftui-layout-system)
 - [Flexible layouts in SwiftUI](https://fivestars.blog/swiftui/flexible-swiftui.html)
+- [Sharing layout information in SwiftUI](https://fivestars.blog/swiftui/swiftui-share-layout-information.html)
+
+### Life cycle
+
+- [The Ultimate Guide to the SwiftUI 2 Application Life Cycle](https://peterfriese.dev/ultimate-guide-to-swiftui2-application-lifecycle/)
+- [SwiftUI View Lifecycle](https://www.vadimbulavin.com/swiftui-view-lifecycle/) - Explore the three phases of the SwiftUI view lifecycle.
 
 ### Others
 
-- [The Ultimate Guide to the SwiftUI 2 Application Life Cycle](https://peterfriese.dev/ultimate-guide-to-swiftui2-application-lifecycle/)
+- [id Identifying SwiftUI Views](https://swiftui-lab.com/swiftui-id/)
+- [View Communication Patterns in SwiftUI](https://www.vadimbulavin.com/passing-data-between-swiftui-views/)
+- [Localization with SwiftUI, how to preview your localized content](https://benoitpasquier.com/localization-swiftui-how-top-preview-localized-content/)
+- [Avoiding massive SwiftUI views](https://www.swiftbysundell.com/articles/avoiding-massive-swiftui-views/)
+
+### macOS
+
+- [SwiftUI for Mac ](https://troz.net/post/2019/swiftui-for-mac-1/) - Try out a Mac app and see what happened.
 
 ## Libraries
 
@@ -180,6 +199,7 @@ Introspect underlying UIKit components from SwiftUI
 ### Others
 
 - [MGFlipView](https://github.com/Zaprogramiacz/MGFlipView) - MGFlipView allows to create flipping view in easy way without worrying about flipping animation and flipping logic.
+- [BottomBar component for SwiftUI](https://github.com/smartvipere75/bottombar-swiftui)
 
 ## Open source apps
 
