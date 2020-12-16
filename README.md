@@ -4,6 +4,7 @@
     + [Apple](#apple)
     + [WWDC](#wwdc)
     + [Newsletter](#newsletter)
+    + [Book](#book)
     + [Learning](#learning)
   * [Articles](#articles)
     + [Implementation](#implementation)
@@ -57,6 +58,11 @@
 - [SwiftUI Weekly](http://weekly.swiftwithmajid.com/) - The curated collection of links about SwiftUI. Delivered every Monday
 - [iOS Dev Weekly](https://iosdevweekly.com/) - Curated by Dave Verwer and published every Friday
 - [iOS Goodies](https://ios-goodies.com/) - weekly iOS newsletter curated by Marius Constantinescu
+
+### Book
+
+- [Thinking in SwiftUI](https://www.objc.io/books/thinking-in-swiftui/) -  It is not a reference for SwiftUI’s platform-specific APIs, but rather a guide to honing your intuition about how SwiftUI works.
+- [SwiftUI by Tutorials](https://www.raywenderlich.com/books/swiftui-by-tutorials/v2.0) - Build fluid and engaging declarative UI for your apps with way less coding with SwiftUI! SwiftUI by Tutorials
 
 ### Learning
 
