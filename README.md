@@ -14,6 +14,7 @@
     + [Inspection](#inspection)
     + [Property wrappers](#property-wrappers)
   * [UI](#ui)
+    + [Button](#button)
     + [Calendar](#calendar)
     + [Chart](#chart)
     + [Color](#color)
@@ -98,6 +99,7 @@
 - [View Communication Patterns in SwiftUI](https://www.vadimbulavin.com/passing-data-between-swiftui-views/)
 - [Localization with SwiftUI, how to preview your localized content](https://benoitpasquier.com/localization-swiftui-how-top-preview-localized-content/)
 - [Avoiding massive SwiftUI views](https://www.swiftbysundell.com/articles/avoiding-massive-swiftui-views/)
+- [Asynchronous Image Loading from URL in SwiftUI](https://www.vadimbulavin.com/asynchronous-swiftui-image-loading-from-url-with-combine-and-swift/)
 
 ### macOS
 
@@ -114,6 +116,9 @@
 
 - [SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI) - About
 SwiftUI Image loading and Animation framework powered by SDWebImage
+- [FetchImage](https://github.com/kean/FetchImage) - Makes it easy to download images using Nuke and display them in SwiftUI apps
+- [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
+
 
 ### Tools
 
@@ -131,6 +136,10 @@ Introspect underlying UIKit components from SwiftUI
 
 ## UI
 
+### Button
+
+- [FloatingButton](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI
+
 ### Calendar
 
 - [RKCalendar](https://github.com/RaffiKian/RKCalendar) - SwiftUI Simple Calendar / Date Picker for iOS
@@ -140,6 +149,9 @@ Introspect underlying UIKit components from SwiftUI
 - [ChartView](https://github.com/AppPear/ChartView) - ChartView made in SwiftUI
 - [SwiftUICharts](https://github.com/mecid/SwiftUICharts) - A simple line and bar charting library that supports accessibility written using SwiftUI.
 - [SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram) - SwiftUI library to easily render diagrams given a tree of objects. Similar to ring chart, sunburst chart, multilevel pie chart.
+- [swiftui-charts](https://github.com/spacenation/swiftui-charts) - SwiftUI Charts with custom styles
+- [BarChart](https://github.com/dawigr/BarChart) - SwiftUI Bar Chart
+- [GraphKit](https://github.com/Chronaemia/GraphKit) - Graphing library for SwiftUI 
 
 ### Color
 
@@ -203,10 +215,12 @@ Introspect underlying UIKit components from SwiftUI
 ### Toast
 
 - [SSToastMessage](https://github.com/SimformSolutionsPvtLtd/SSToastMessage) - It will add toast, alert, and floating message view over the top of any view.
+- [ToastUI](https://github.com/quanshousio/ToastUI) - A simple way to show toast in SwiftUI.
 
 ### Slider
 
 - [swiftui-sliders](https://github.com/spacenation/swiftui-sliders) - SwiftUI Sliders with custom styles
+- [Sliders-SwiftUI](https://github.com/kieranb662/Sliders-SwiftUI) - Collection of unique fully customizable SwiftUI sliders, joysticks, trackpads and more!
 
 ### Others
 
@@ -228,6 +242,7 @@ Introspect underlying UIKit components from SwiftUI
 - [DiscoverRandomQuotes](https://github.com/FranicevicNikola/DiscoverRandomQuotes) - Random quotes
 - [Mamoot](https://github.com/Benetos/Mamoot) - Mastodon and Twitter client for iOS, iPadOS & macOS
 - [sfsymbols](https://github.com/atrinh0/sfsymbols) - SwiftUI app to search and showcase SF Symbols
+- [buttoncraft](https://github.com/atrinh0/buttoncraft) - Craft that perfect SwiftUI button effect 
 
 ### macOS
 
