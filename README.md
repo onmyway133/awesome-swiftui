@@ -14,6 +14,7 @@
     + [Inspection](#inspection)
     + [Property wrappers](#property-wrappers)
   * [UI](#ui)
+    + [Animation](#animation)
     + [Button](#button)
     + [Calendar](#calendar)
     + [Chart](#chart)
@@ -76,7 +77,6 @@
 - [Animating complex shapes in SwiftUI](https://nerdyak.tech/development/2020/01/12/animating-complex-shapes-in-swiftui.html)
 - [TikTok logo-ish effect in SwiftUI](https://nerdyak.tech/development/2020/06/12/create-tiktok-logo-effect-in-swiftui.html)
 - [Building a Multi-platform App with SwiftUI](https://heartbeat.fritz.ai/building-a-multi-platform-app-with-swiftui-5336bce94689)
-- [swiftui-animation-library](https://github.com/amosgyamfi/swiftui-animation-library) - Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations
 
 ### Internal
 
@@ -137,6 +137,14 @@ Introspect underlying UIKit components from SwiftUI
 - [Burritos](https://github.com/guillermomuntaner/Burritos) - A collection of Swift Property Wrappers 
 
 ## UI
+
+### Animation
+
+- [swiftui-animation-library](https://github.com/amosgyamfi/swiftui-animation-library) - Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations
+- [SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) - Various types of Animations created in SwiftUI and can be used anywhere you want
+- [SwiftUI-Animation](https://github.com/Arvindcs/SwiftUI-Animation) - Swiftui Animation
+- [SwiftUI-Animations](https://github.com/Inncoder/SwiftUI-Animations) - Code from instagram posts
+- [swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries) - Swift UI libraries, iOS components and animations
 
 ### Button
 
@@ -211,10 +219,15 @@ Introspect underlying UIKit components from SwiftUI
 ### Page
 
 - [Pages](https://github.com/nachonavarro/Pages) - A lightweight, paging view solution for SwiftUI
+- [LiquidSwipe]()https://github.com/exyte/LiquidSwipe) - Example of using SwiftUI to create a beautiful Liquid Swipe control
 
 ### Pull to refresh
 
 - [SwiftUI-PullToRefresh](https://github.com/AppPear/SwiftUI-PullToRefresh) - Pull to refresh in SwiftUI for List, NavigationView
+
+### TabBar
+
+- [bottombar-swiftui](https://github.com/smartvipere75/bottombar-swiftui) - BottomBar component for SwiftUI
 
 ### Toast
 
@@ -229,7 +242,7 @@ Introspect underlying UIKit components from SwiftUI
 ### Others
 
 - [MGFlipView](https://github.com/Zaprogramiacz/MGFlipView) - MGFlipView allows to create flipping view in easy way without worrying about flipping animation and flipping logic.
-- [bottombar-swiftui](https://github.com/smartvipere75/bottombar-swiftui) - BottomBar component for SwiftUI
+- [](https://github.com/exyte/LiquidSwipe)
 
 ## Open source apps
 
@@ -247,6 +260,7 @@ Introspect underlying UIKit components from SwiftUI
 - [Mamoot](https://github.com/Benetos/Mamoot) - Mastodon and Twitter client for iOS, iPadOS & macOS
 - [sfsymbols](https://github.com/atrinh0/sfsymbols) - SwiftUI app to search and showcase SF Symbols
 - [buttoncraft](https://github.com/atrinh0/buttoncraft) - Craft that perfect SwiftUI button effect 
+- [SwiftUIMindBlowing](https://github.com/antranapp/SwiftUIMindBlowing) - Learning SwiftUI by examples.
 
 ### macOS
 
