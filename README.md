@@ -199,7 +199,7 @@ Introspect underlying UIKit components from SwiftUI
 ### Others
 
 - [MGFlipView](https://github.com/Zaprogramiacz/MGFlipView) - MGFlipView allows to create flipping view in easy way without worrying about flipping animation and flipping logic.
-- [BottomBar component for SwiftUI](https://github.com/smartvipere75/bottombar-swiftui)
+- [bottombar-swiftui](https://github.com/smartvipere75/bottombar-swiftui) - BottomBar component for SwiftUI
 
 ## Open source apps
 
