@@ -2,6 +2,7 @@
 
   * [General](#general)
     + [Apple](#apple)
+    + [WWDC](#wwdc)
     + [Newsletter](#newsletter)
     + [Learning](#learning)
   * [Articles](#articles)
@@ -42,6 +43,12 @@
 - [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui) - Create beautiful, dynamic apps faster than ever before.
 - [iOS App Dev with SwiftUI](https://developer.apple.com/tutorials/app-dev-training/) - Create apps using SwiftUI and Xcode. Build Scrumdinger, an app that keeps track of daily scrums
 
+### WWDC
+
+- [WWDC2019 SwiftUI Essentials](https://netsplit.com/swiftui) - Take your first deep-dive into building an app with SwiftUI. Learn about Views and how they work 
+- [WWDC0291 226 Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226/) - Learn how to connect your data as dependencies while keeping the UI fully predictable and error free
+- [WWDC2020 Data Essentials in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10040/) - Discover @State and @Binding, two powerful tools that can preserve and seamlessly update your Source of Truth
+
 ### Newsletter
 
 - [SwiftUI Weekly](http://weekly.swiftwithmajid.com/) - The curated collection of links about SwiftUI. Delivered every Monday
@@ -58,6 +65,7 @@
 - [The SwiftUI Lab](https://swiftui-lab.com/) - Advanced insights into SwiftUI
 - [Netsplit SwiftUI](https://netsplit.com/swiftui)
 - [SwiftUI by examples](https://www.hackingwithswift.com/quick-start/swiftui) - SwiftUI by Example is the world's largest collection of SwiftUI examples, tips, and techniques giving you over 400 pages of hands-on code
+- [A Companion for SwiftUI](https://swiftui-lab.com/companion/) - A Companion for SwiftUI is an app that documents all the SwiftUI views, shapes, protocols, scenes and property wrappers for the iOS and macOS platform.
 
 ## Articles
 
@@ -106,6 +114,10 @@
 
 - [SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI) - About
 SwiftUI Image loading and Animation framework powered by SDWebImage
+
+### Tools
+
+- [SVG-to-SwiftUI](https://github.com/quassummanus/SVG-to-SwiftUI) - Tool to convert SVG to SwiftUI's Shape structure
 
 ### Inspection
 
@@ -215,6 +227,7 @@ Introspect underlying UIKit components from SwiftUI
 - [Pomosh-iOS-watchOS](https://github.com/stevenselcuk/Pomosh-iOS-watchOS) - Pomodoro Technique assistant on iOS and WatchOS
 - [DiscoverRandomQuotes](https://github.com/FranicevicNikola/DiscoverRandomQuotes) - Random quotes
 - [Mamoot](https://github.com/Benetos/Mamoot) - Mastodon and Twitter client for iOS, iPadOS & macOS
+- [sfsymbols](https://github.com/atrinh0/sfsymbols) - SwiftUI app to search and showcase SF Symbols
 
 ### macOS
 
