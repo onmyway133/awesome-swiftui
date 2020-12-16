@@ -75,6 +75,7 @@
 - [Animating complex shapes in SwiftUI](https://nerdyak.tech/development/2020/01/12/animating-complex-shapes-in-swiftui.html)
 - [TikTok logo-ish effect in SwiftUI](https://nerdyak.tech/development/2020/06/12/create-tiktok-logo-effect-in-swiftui.html)
 - [Building a Multi-platform App with SwiftUI](https://heartbeat.fritz.ai/building-a-multi-platform-app-with-swiftui-5336bce94689)
+- [swiftui-animation-library](https://github.com/amosgyamfi/swiftui-animation-library) - Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations
 
 ### Internal
 
@@ -188,7 +189,7 @@ Introspect underlying UIKit components from SwiftUI
 - [SwiftUIFontIcon](https://github.com/huybuidac/SwiftUIFontIcon) - The easiest way to implement font icons in your SwiftUI project.
 - [SFSafeSymbols](https://github.com/piknotech/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing
 
-### Indicator
+### Guide
 
 - [StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
 
@@ -199,6 +200,8 @@ Introspect underlying UIKit components from SwiftUI
 ### Loading
 
 - [ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI
+- [ActivityIndicators](https://github.com/sketch204/ActivityIndicators) - Simple activity indicators for your SwiftUI projects
+- [SkeletonUI](https://github.com/CSolanaM/SkeletonUI) - Elegant skeleton loading animation in SwiftUI and Combine
 
 ### Onboarding
 
