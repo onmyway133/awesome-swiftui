@@ -278,3 +278,4 @@ Introspect underlying UIKit components from SwiftUI
 ### macOS
 
 - [RedditOS](https://github.com/Dimillian/RedditOS) - SwiftUI Reddit client for macOS Big Sur
+- [ControlRoom](https://github.com/twostraws/ControlRoom) - A macOS app to control the Xcode Simulator
