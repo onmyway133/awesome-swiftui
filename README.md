@@ -21,7 +21,7 @@
     + [Calendar](#calendar)
     + [Chart](#chart)
     + [Color](#color)
-    + [Clokc](#clokc)
+    + [Clock](#clock)
     + [Countdown](#countdown)
     + [Confetti](#confetti)
     + [Form](#form)
@@ -180,7 +180,7 @@ Introspect underlying UIKit components from SwiftUI
 
 - [DynamicColor](https://github.com/yannickl/DynamicColor) - Yet another extension to manipulate colors easily in Swift and SwiftUI
 
-### Clokc
+### Clock
 
 - [ClockPicker](https://github.com/workingDog/ClockPicker) - SwiftUI Clock Time Picker
 
