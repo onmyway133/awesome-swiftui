@@ -47,6 +47,9 @@
 - [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui) - Create beautiful, dynamic apps faster than ever before.
 - [iOS App Dev with SwiftUI](https://developer.apple.com/tutorials/app-dev-training/) - Create apps using SwiftUI and Xcode. Build Scrumdinger, an app that keeps track of daily scrums
 - [Creating a macOS App](https://developer.apple.com/tutorials/swiftui/creating-a-macos-app) - After creating a version of the Landmarks app for watchOS, it’s time to set your sights on something bigger: bringing Landmarks to the Mac
+- [Creating Performant Scrollable Stacks](https://developer.apple.com/documentation/swiftui/creating-performant-scrollable-stacks)
+- [Aligning Views Across Stacks](https://developer.apple.com/documentation/swiftui/aligning-views-across-stacks)
+- [Building Layouts with Stack Views](https://developer.apple.com/documentation/swiftui/building-layouts-with-stack-views)
 
 ### WWDC
 
