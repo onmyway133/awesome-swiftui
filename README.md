@@ -114,6 +114,7 @@
 - [Avoiding massive SwiftUI views](https://www.swiftbysundell.com/articles/avoiding-massive-swiftui-views/)
 - [Asynchronous Image Loading from URL in SwiftUI](https://www.vadimbulavin.com/asynchronous-swiftui-image-loading-from-url-with-combine-and-swift/)
 - [SwiftUI tips and tricks](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tips-and-tricks)
+- [An alternative to SwiftUI's stacks + Spacer combo](https://fivestars.blog/swiftui/stack-spacer-alternatives.html)
 
 ### macOS
 
