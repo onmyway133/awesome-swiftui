@@ -83,6 +83,7 @@
 - [Netsplit SwiftUI](https://netsplit.com/swiftui)
 - [SwiftUI by examples](https://www.hackingwithswift.com/quick-start/swiftui) - SwiftUI by Example is the world's largest collection of SwiftUI examples, tips, and techniques giving you over 400 pages of hands-on code
 - [A Companion for SwiftUI](https://swiftui-lab.com/companion/) - A Companion for SwiftUI is an app that documents all the SwiftUI views, shapes, protocols, scenes and property wrappers for the iOS and macOS platform.
+- [SwiftUI-Kit](https://github.com/jordansinger/SwiftUI-Kit) - A SwiftUI system components and interactions demo app
 
 ## Articles
 
@@ -151,7 +152,7 @@ Introspect underlying UIKit components from SwiftUI
 
 ### Property wrappers
 
-- [Burritos](https://github.com/guillermomuntaner/Burritos) - A collection of Swift Property Wrappers 
+- [Burritos](https://github.com/guillermomuntaner/Burritos) - A collection of Swift Property Wrappers
 
 ## UI
 
@@ -260,6 +261,7 @@ Introspect underlying UIKit components from SwiftUI
 
 - [MGFlipView](https://github.com/Zaprogramiacz/MGFlipView) - MGFlipView allows to create flipping view in easy way without worrying about flipping animation and flipping logic.
 - [LiquidSwipe](https://github.com/exyte/LiquidSwipe) - Example of using SwiftUI to create a beautiful Liquid Swipe control
+- [neumorphic](https://github.com/costachung/neumorphic) - Neumorphic is a SwiftUI utility to build Neumorphism Soft UI 
 
 ## Open source apps
 
