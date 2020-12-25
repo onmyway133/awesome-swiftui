@@ -188,6 +188,7 @@ Introspect underlying UIKit components from SwiftUI
 ### Clock
 
 - [ClockPicker](https://github.com/workingDog/ClockPicker) - SwiftUI Clock Time Picker
+- [SwiftClockUI](https://github.com/renaudjenny/SwiftClockUI) - SwiftUI library to display a clock
 
 ### Countdown
 
