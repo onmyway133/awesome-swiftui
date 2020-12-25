@@ -230,6 +230,7 @@ Introspect underlying UIKit components from SwiftUI
 - [ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI
 - [ActivityIndicators](https://github.com/sketch204/ActivityIndicators) - Simple activity indicators for your SwiftUI projects
 - [SkeletonUI](https://github.com/CSolanaM/SkeletonUI) - Elegant skeleton loading animation in SwiftUI and Combine
+- [Laden](https://github.com/vinhnx/Laden) - SwiftUI loading indicator view
 
 ### Onboarding
 
