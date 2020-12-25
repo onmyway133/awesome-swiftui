@@ -239,6 +239,7 @@ Introspect underlying UIKit components from SwiftUI
 
 - [Pages](https://github.com/nachonavarro/Pages) - A lightweight, paging view solution for SwiftUI
 - [LiquidSwipe]()https://github.com/exyte/LiquidSwipe) - Example of using SwiftUI to create a beautiful Liquid Swipe control
+- [PageView](https://github.com/fredyshox/PageView) - SwiftUI view enabling navigation between pages of content
 
 ### Pull to refresh
 
