@@ -286,3 +286,4 @@ Introspect underlying UIKit components from SwiftUI
 
 - [RedditOS](https://github.com/Dimillian/RedditOS) - SwiftUI Reddit client for macOS Big Sur
 - [ControlRoom](https://github.com/twostraws/ControlRoom) - A macOS app to control the Xcode Simulator
+- [AppShot](https://github.com/L1cardo/AppShot) - App Store screen shot generator
