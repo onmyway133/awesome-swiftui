@@ -290,3 +290,5 @@ Introspect underlying UIKit components from SwiftUI
 - [RedditOS](https://github.com/Dimillian/RedditOS) - SwiftUI Reddit client for macOS Big Sur
 - [ControlRoom](https://github.com/twostraws/ControlRoom) - A macOS app to control the Xcode Simulator
 - [AppShot](https://github.com/L1cardo/AppShot) - App Store screen shot generator
+- [5 GUIs](https://github.com/ZeeZide/5GUIs) - Detect the GUI technology used in an app
+- [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - View what's on the pasteboard
