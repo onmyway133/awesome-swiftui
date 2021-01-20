@@ -67,6 +67,7 @@
 
 - [Thinking in SwiftUI](https://www.objc.io/books/thinking-in-swiftui/) -  It is not a reference for SwiftUI’s platform-specific APIs, but rather a guide to honing your intuition about how SwiftUI works.
 - [SwiftUI by Tutorials](https://www.raywenderlich.com/books/swiftui-by-tutorials/v2.0) - Build fluid and engaging declarative UI for your apps with way less coding with SwiftUI! SwiftUI by Tutorials
+- [Mastering SwiftUI by AppCoda](https://www.appcoda.com/learnswiftui/) - We will dive deep into the SwiftUI framework, teaching you how to work with various UI elements, and build different types of UIs
 
 ### Course
 
