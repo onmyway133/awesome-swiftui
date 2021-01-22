@@ -35,6 +35,7 @@
     + [Pull to refresh](#pull-to-refresh)
     + [Toast](#toast)
     + [Slider](#slider)
+    + [Window](#window)
     + [Others](#others)
   * [Open source apps](#open-source-apps)
     + [iOS](#ios)
@@ -247,6 +248,12 @@ Introspect underlying UIKit components from SwiftUI
 
 - [SwiftUI-PullToRefresh](https://github.com/AppPear/SwiftUI-PullToRefresh) - Pull to refresh in SwiftUI for List, NavigationView
 
+
+### Slider
+
+- [swiftui-sliders](https://github.com/spacenation/swiftui-sliders) - SwiftUI Sliders with custom styles
+- [Sliders-SwiftUI](https://github.com/kieranb662/Sliders-SwiftUI) - Collection of unique fully customizable SwiftUI sliders, joysticks, trackpads and more!
+
 ### TabBar
 
 - [bottombar-swiftui](https://github.com/smartvipere75/bottombar-swiftui) - BottomBar component for SwiftUI
@@ -256,10 +263,10 @@ Introspect underlying UIKit components from SwiftUI
 - [SSToastMessage](https://github.com/SimformSolutionsPvtLtd/SSToastMessage) - It will add toast, alert, and floating message view over the top of any view.
 - [ToastUI](https://github.com/quanshousio/ToastUI) - A simple way to show toast in SwiftUI.
 
-### Slider
 
-- [swiftui-sliders](https://github.com/spacenation/swiftui-sliders) - SwiftUI Sliders with custom styles
-- [Sliders-SwiftUI](https://github.com/kieranb662/Sliders-SwiftUI) - Collection of unique fully customizable SwiftUI sliders, joysticks, trackpads and more!
+### Window
+
+- [SwiftUIWindowStyles](https://github.com/martinlexow/SwiftUIWindowStyles) - Showcase of window and toolbar style combinations possible with SwiftUI on macOS.
 
 ### Others
 
