@@ -133,6 +133,7 @@
 
 - [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library.
 - [EasySwiftUI](https://github.com/onmyway133/easyswiftui) - Extra sugar for SwiftUI
+- [SwiftUIKitView](https://github.com/AvdLee/SwiftUIKitView) - Easily use UIKit views in your SwiftUI applications. Create Xcode Previews for UIView elements
 
 ### Image
 
