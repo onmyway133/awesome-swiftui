@@ -99,6 +99,7 @@
 
 - [Re-implementation of Binding and State](https://gist.github.com/AliSoftware/ecb5dfeaa7884fc0ce96178dfdd326f8) - A concept re-implementation of the @Binding and @State property wrappers from SwiftUI
 - [SwiftUI and UIKit interoperability](https://www.swiftbysundell.com/articles/swiftui-and-uikit-interoperability-part-1/)
+- [Avoiding SwiftUI’s AnyView](https://www.swiftbysundell.com/articles/avoiding-anyview-in-swiftui/)
 
 ### Layout
 
