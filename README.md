@@ -275,6 +275,7 @@ Introspect underlying UIKit components from SwiftUI
 - [MGFlipView](https://github.com/Zaprogramiacz/MGFlipView) - MGFlipView allows to create flipping view in easy way without worrying about flipping animation and flipping logic.
 - [LiquidSwipe](https://github.com/exyte/LiquidSwipe) - Example of using SwiftUI to create a beautiful Liquid Swipe control
 - [neumorphic](https://github.com/costachung/neumorphic) - Neumorphic is a SwiftUI utility to build Neumorphism Soft UI 
+- [SwiftUI-Shapes](https://github.com/kieranb662/SwiftUI-Shapes) - Commonly Used Shapes and Utilities In SwiftUI
 
 ## Open source apps
 
