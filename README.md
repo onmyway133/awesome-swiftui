@@ -297,6 +297,7 @@ Introspect underlying UIKit components from SwiftUI
 - [SwiftUIMindBlowing](https://github.com/antranapp/SwiftUIMindBlowing) - Learning SwiftUI by examples.
 - [MortyUI](https://github.com/Dimillian/MortyUI) - A very simple Rick & Morty app to demo GraphQL + SwiftUI
 - [Clendar - minimal calendar](https://github.com/vinhnx/clendar) - Clendar - minimal calendar. Written in SwiftUI
+- [Expenso-iOS](https://github.com/sameersyd/Expenso-iOS) - A Simple Expense Tracker App built to demonstrate the use of SwiftUI, CoreData and MVVM Architecture.
 
 ### macOS
 
