@@ -24,6 +24,7 @@
     + [Clock](#clock)
     + [Countdown](#countdown)
     + [Confetti](#confetti)
+    + [Drawer](#drawer)
     + [Form](#form)
     + [Grid](#grid)
     + [Icon](#icon)
@@ -203,6 +204,10 @@ Introspect underlying UIKit components from SwiftUI
 ### Confetti
 
 - [ConfettiView](https://github.com/ziligy/ConfettiView) - A Confetti View for SwiftUI
+
+### Drawer
+
+- [Snap](https://github.com/nerdsupremacist/Snap) - A customizable Snapping Drawer à la Apple Maps.   100% in SwiftUI.
 
 ### Form
 
