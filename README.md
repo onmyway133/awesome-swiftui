@@ -55,7 +55,7 @@
 
 ### WWDC
 
-- [WWDC2019 SwiftUI Essentials](https://netsplit.com/swiftui) - Take your first deep-dive into building an app with SwiftUI. Learn about Views and how they work 
+- [WWDC2019 SwiftUI Essentials](https://developer.apple.com/videos/play/wwdc2019/216/) - Take your first deep-dive into building an app with SwiftUI. Learn about Views and how they work 
 - [WWDC0291 Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226/) - Learn how to connect your data as dependencies while keeping the UI fully predictable and error free
 - [WWDC2020 Data Essentials in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10040/) - Discover @State and @Binding, two powerful tools that can preserve and seamlessly update your Source of Truth
 
