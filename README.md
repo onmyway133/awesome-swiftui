@@ -89,7 +89,7 @@
 - [SwiftUI by examples](https://www.hackingwithswift.com/quick-start/swiftui) - SwiftUI by Example is the world's largest collection of SwiftUI examples, tips, and techniques giving you over 400 pages of hands-on code
 - [A Companion for SwiftUI](https://swiftui-lab.com/companion/) - A Companion for SwiftUI is an app that documents all the SwiftUI views, shapes, protocols, scenes and property wrappers for the iOS and macOS platform.
 - [SwiftUI-Kit](https://github.com/jordansinger/SwiftUI-Kit) - A SwiftUI system components and interactions demo app
-- [SwiftUI Handbook](https://designcode.io/swiftui-handbook-hstack-vstack) - SwiftUI handbook by Design code
+- [CodeSlicing](https://www.youtube.com/channel/UCakreohbcr3Xcrlc6qbbbVA) - Create things in SwiftUI
 
 ## Articles
 
