@@ -294,18 +294,15 @@ Introspect underlying UIKit components from SwiftUI
 - [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - SwiftUI & Combine app using MovieDB API
 - [SwiftUI-2048](https://github.com/unixzii/SwiftUI-2048) - A 2048 game writing with SwiftUI.
 - [swiftui-recipes-app](https://github.com/mecid/swiftui-recipes-app) - Recipes app written in SwiftUI using Single State Container
-- [SwiftUIFourierSeries](https://github.com/simonboots/SwiftUIFourierSeries) - A Fourier Series visualisation written in Swift/SwiftUI
 - [SwiftUI-HackerNews](https://github.com/woxtu/SwiftUI-HackerNews) - A Hacker News reader built with SwiftUI+Combine 
-- [SwiftUI-Currency-Converter](https://github.com/alexliubj/SwiftUI-Currency-Converter) - Currency Converter project coded by SwiftUI and Swift5
 - [Pomosh-iOS-watchOS](https://github.com/stevenselcuk/Pomosh-iOS-watchOS) - Pomodoro Technique assistant on iOS and WatchOS
-- [DiscoverRandomQuotes](https://github.com/FranicevicNikola/DiscoverRandomQuotes) - Random quotes
 - [Mamoot](https://github.com/Benetos/Mamoot) - Mastodon and Twitter client for iOS, iPadOS & macOS
 - [sfsymbols](https://github.com/atrinh0/sfsymbols) - SwiftUI app to search and showcase SF Symbols
 - [buttoncraft](https://github.com/atrinh0/buttoncraft) - Craft that perfect SwiftUI button effect 
 - [SwiftUIMindBlowing](https://github.com/antranapp/SwiftUIMindBlowing) - Learning SwiftUI by examples.
-- [MortyUI](https://github.com/Dimillian/MortyUI) - A very simple Rick & Morty app to demo GraphQL + SwiftUI
 - [Clendar - minimal calendar](https://github.com/vinhnx/clendar) - Clendar - minimal calendar. Written in SwiftUI
 - [Expenso-iOS](https://github.com/sameersyd/Expenso-iOS) - A Simple Expense Tracker App built to demonstrate the use of SwiftUI, CoreData and MVVM Architecture.
+- [swiftui.builds](https://github.com/FranckNdame/swiftui.builds) - building cool stuff with swiftui
 
 ### macOS
 
