@@ -311,3 +311,4 @@ Introspect underlying UIKit components from SwiftUI
 - [AppShot](https://github.com/L1cardo/AppShot) - App Store screen shot generator
 - [5 GUIs](https://github.com/ZeeZide/5GUIs) - Detect the GUI technology used in an app
 - [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - View what's on the pasteboard
+- [pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
