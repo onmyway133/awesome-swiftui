@@ -158,6 +158,7 @@ SwiftUI Image loading and Animation framework powered by SDWebImage
 - [ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime inspection and unit testing of SwiftUI views
 - [SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) - About
 Introspect underlying UIKit components from SwiftUI
+- [Dynamic](https://github.com/mhdhejazi/Dynamic) - Call hidden/private API in style! The Swift way.
 
 ### Property wrappers
 
