@@ -131,6 +131,7 @@
 
 - [SwiftUI for Mac ](https://troz.net/post/2019/swiftui-for-mac-1/) - Try out a Mac app and see what happened.
 - [SwiftUI for Mac on Big Sur](https://troz.net/post/2020/swiftui_mac_big_sur/)
+- [AppKit is done](https://kean.blog/post/appkit-is-done) 
 
 ## Libraries
 
