@@ -317,3 +317,4 @@ Introspect underlying UIKit components from SwiftUI
 - [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - View what's on the pasteboard
 - [pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
 - [nuage](https://github.com/lbrndnr/nuage-macos) - A native SoundCloud app for macOS, written in SwiftUI
+- [writefreely](https://github.com/writeas/writefreely-swiftui-multiplatform) - Source code for the WriteFreely SwiftUI app for iOS, iPadOS, and macOS
