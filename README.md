@@ -288,6 +288,7 @@ Introspect underlying UIKit components from SwiftUI
 - [neumorphic](https://github.com/costachung/neumorphic) - Neumorphic is a SwiftUI utility to build Neumorphism Soft UI 
 - [SwiftUI-Shapes](https://github.com/kieranb662/SwiftUI-Shapes) - Commonly Used Shapes and Utilities In SwiftUI
 - [SwiftUI-Hook](https://github.com/ra1028/SwiftUI-Hooks) - A SwiftUI implementation of React Hooks. Enhances reusability of stateful logic and gives state and lifecycle to function view.
+- [ParticleDrivers](https://github.com/devwaseem/ParticleDrivers) - ParticleDrivers is a SwiftUI project that simulates particles forming structures on command
 
 ## Open source apps
 
