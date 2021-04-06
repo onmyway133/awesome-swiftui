@@ -318,3 +318,7 @@ Introspect underlying UIKit components from SwiftUI
 - [pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
 - [nuage](https://github.com/lbrndnr/nuage-macos) - A native SoundCloud app for macOS, written in SwiftUI
 - [writefreely](https://github.com/writeas/writefreely-swiftui-multiplatform) - Source code for the WriteFreely SwiftUI app for iOS, iPadOS, and macOS
+
+### MultifPlatform Applications
+
+- [DEV](https://github.com/hadiidbouk/DEV) - SwiftUI + Composable Architecture muliplatform app for dev.to website
