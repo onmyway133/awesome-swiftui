@@ -321,4 +321,4 @@ Introspect underlying UIKit components from SwiftUI
 
 ### MultiPlatform Applications
 
-- [DEV](https://github.com/hadiidbouk/DEV) - SwiftUI + Composable Architecture muliplatform app for dev.to website
+- [DEV](https://github.com/hadiidbouk/DEV) - SwiftUI + Composable Architecture multiplatform app for dev.to website.
