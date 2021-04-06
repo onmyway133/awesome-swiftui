@@ -322,3 +322,4 @@ Introspect underlying UIKit components from SwiftUI
 ### MultiPlatform Applications
 
 - [DEV](https://github.com/hadiidbouk/DEV) - SwiftUI + Composable Architecture multiplatform app for dev.to website.
+- [StackOv](https://github.com/surfstudio/StackOv) - An open-source SwiftUI Stack Overflow client
