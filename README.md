@@ -212,7 +212,8 @@ Introspect underlying UIKit components from SwiftUI
 
 ### Drawer
 
-- [Snap](https://github.com/nerdsupremacist/Snap) - A customizable Snapping Drawer à la Apple Maps.   100% in SwiftUI.
+- [Snap](https://github.com/nerdsupremacist/Snap) - A customizable Snapping Drawer à la Apple Maps
+- [swiftui-drawer](https://github.com/maustinstar/swiftui-drawer) - A SwiftUI bottom-up controller, like in the Maps app. Drag to expand or minimize.
 
 ### Form
 
@@ -290,6 +291,7 @@ Introspect underlying UIKit components from SwiftUI
 - [SwiftUI-Hook](https://github.com/ra1028/SwiftUI-Hooks) - A SwiftUI implementation of React Hooks. Enhances reusability of stateful logic and gives state and lifecycle to function view.
 - [ParticleDrivers](https://github.com/devwaseem/ParticleDrivers) - ParticleDrivers is a SwiftUI project that simulates particles forming structures on command
 - [liquid](https://github.com/maustinstar/liquid) - Create a playful backsplash in SwiftUI
+- [shiny](https://github.com/maustinstar/shiny) - Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View.
 
 ## Open source apps
 
