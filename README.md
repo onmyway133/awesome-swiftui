@@ -289,6 +289,7 @@ Introspect underlying UIKit components from SwiftUI
 - [SwiftUI-Shapes](https://github.com/kieranb662/SwiftUI-Shapes) - Commonly Used Shapes and Utilities In SwiftUI
 - [SwiftUI-Hook](https://github.com/ra1028/SwiftUI-Hooks) - A SwiftUI implementation of React Hooks. Enhances reusability of stateful logic and gives state and lifecycle to function view.
 - [ParticleDrivers](https://github.com/devwaseem/ParticleDrivers) - ParticleDrivers is a SwiftUI project that simulates particles forming structures on command
+- [liquid](https://github.com/maustinstar/liquid) - Create a playful backsplash in SwiftUI
 
 ## Open source apps
 
