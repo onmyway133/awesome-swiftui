@@ -321,6 +321,7 @@ Introspect underlying UIKit components from SwiftUI
 - [pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
 - [nuage](https://github.com/lbrndnr/nuage-macos) - A native SoundCloud app for macOS, written in SwiftUI
 - [writefreely](https://github.com/writeas/writefreely-swiftui-multiplatform) - Source code for the WriteFreely SwiftUI app for iOS, iPadOS, and macOS
+- [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) - Redirect Twitter, YouTube, Reddit, Google Maps, Google Search, and Google Translate to privacy friendly alternatives.
 
 ### MultiPlatform Applications
 
