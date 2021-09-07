@@ -310,6 +310,7 @@ Introspect underlying UIKit components from SwiftUI
 - [Clendar - minimal calendar](https://github.com/vinhnx/clendar) - Clendar - minimal calendar. Written in SwiftUI
 - [Expenso-iOS](https://github.com/sameersyd/Expenso-iOS) - A Simple Expense Tracker App built to demonstrate the use of SwiftUI, CoreData and MVVM Architecture.
 - [swiftui.builds](https://github.com/FranckNdame/swiftui.builds) - building cool stuff with swiftui
+- [AR MultiPendulum](https://github.com/philipturner/ar-multipendulum) - AR app using SwiftUI for touchscreen interface
 
 ### macOS
 
