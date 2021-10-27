@@ -182,6 +182,7 @@ Introspect underlying UIKit components from SwiftUI
 ### Calendar
 
 - [RKCalendar](https://github.com/RaffiKian/RKCalendar) - SwiftUI Simple Calendar / Date Picker for iOS
+- [SwiftUICalendar](https://github.com/GGJJack/SwiftUICalendar) - SwiftUI base simple Calendar
 
 ### Chart
 
