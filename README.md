@@ -148,6 +148,7 @@
 SwiftUI Image loading and Animation framework powered by SDWebImage
 - [FetchImage](https://github.com/kean/FetchImage) - Makes it easy to download images using Nuke and display them in SwiftUI apps
 - [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
+- [CachedAsyncImage](https://github.com/lorenzofiamingo/SwiftUI-CachedAsyncImage) - The simplest way to add cache to your AsyncImage.
 
 
 ### Tools
