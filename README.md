@@ -277,6 +277,7 @@ Introspect underlying UIKit components from SwiftUI
 
 - [SSToastMessage](https://github.com/SimformSolutionsPvtLtd/SSToastMessage) - It will add toast, alert, and floating message view over the top of any view.
 - [ToastUI](https://github.com/quanshousio/ToastUI) - A simple way to show toast in SwiftUI.
+- [AlertToast](https://github.com/elai950/AlertToast) - Present Apple-like alert & toast in SwiftUI
 
 
 ### Window
