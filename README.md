@@ -33,6 +33,7 @@
     + [Loading](#loading)
     + [Onboarding](#onboarding)
     + [Page](#page)
+    + [Picker](#picker)
     + [Pull to refresh](#pull-to-refresh)
     + [Toast](#toast)
     + [Slider](#slider)
@@ -258,6 +259,10 @@ Introspect underlying UIKit components from SwiftUI
 - [Pages](https://github.com/nachonavarro/Pages) - A lightweight, paging view solution for SwiftUI
 - [LiquidSwipe]()https://github.com/exyte/LiquidSwipe) - Example of using SwiftUI to create a beautiful Liquid Swipe control
 - [PageView](https://github.com/fredyshox/PageView) - SwiftUI view enabling navigation between pages of content
+
+### Picker
+
+- [SwiftUIWheelPicker](https://github.com/GGJJack/SwiftUIWheelPicker) - Custom horizontal wheel picker for SwiftUI
 
 ### Pull to refresh
 
