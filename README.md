@@ -31,6 +31,7 @@
     + [Indicator](#indicator)
     + [Keyboard](#keyboard)
     + [Loading](#loading)
+    + [Menu](#menu)
     + [Onboarding](#onboarding)
     + [Page](#page)
     + [Picker](#picker)
@@ -249,6 +250,10 @@ Introspect underlying UIKit components from SwiftUI
 - [ActivityIndicators](https://github.com/sketch204/ActivityIndicators) - Simple activity indicators for your SwiftUI projects
 - [SkeletonUI](https://github.com/CSolanaM/SkeletonUI) - Elegant skeleton loading animation in SwiftUI and Combine
 - [Laden](https://github.com/vinhnx/Laden) - SwiftUI loading indicator view
+
+### Menu
+
+- [EasyMenu](https://github.com/hdehghan/EasyMenu) - SwiftUI Menu but not only button
 
 ### Onboarding
 
