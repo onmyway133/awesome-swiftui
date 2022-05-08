@@ -304,6 +304,7 @@ Introspect underlying UIKit components from SwiftUI
 
 ### iOS
 
+- [BeAware Deaf Assistant](https://github.com/BeAware-DeafAssistant/mobile) - SwiftUI app containing customizable noise alerts, speech-to-text and a supercharged notepad.
 - [DesignCode-SwiftUI](https://github.com/mythxn/DesignCode-SwiftUI) - An app fully written in SwiftUI showcasing beautiful design and animations.
 - [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - SwiftUI & Combine app using MovieDB API
 - [SwiftUI-2048](https://github.com/unixzii/SwiftUI-2048) - A 2048 game writing with SwiftUI.
