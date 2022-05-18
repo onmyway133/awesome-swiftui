@@ -193,6 +193,7 @@ Introspect underlying UIKit components from SwiftUI
 - [swiftui-charts](https://github.com/spacenation/swiftui-charts) - SwiftUI Charts with custom styles
 - [BarChart](https://github.com/dawigr/BarChart) - SwiftUI Bar Chart
 - [GraphKit](https://github.com/Chronaemia/GraphKit) - Graphing library for SwiftUI 
+- [LightChart](https://github.com/pichukov/LightChart) SwiftUI charts
 
 ### Color
 
