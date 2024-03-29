@@ -229,6 +229,7 @@ Introspect underlying UIKit components from SwiftUI
 - [WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) - A waterfall grid layout view for SwiftUI
 - [swiftui-grid](https://github.com/spacenation/swiftui-grid) - SwiftUI Grid layout with custom style
 - [ASCollectionView](https://github.com/apptekstudios/ASCollectionView) - A SwiftUI collection view with support for custom layouts, preloading, and more
+- [MosaicGrid](https://github.com/hainayanda/MosaicGrid) - Easy to use fully customizable Mosaic grid layout for SwiftUI
 
 ### Icon
 
