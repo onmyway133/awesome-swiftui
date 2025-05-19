@@ -127,7 +127,6 @@
 - [Asynchronous Image Loading from URL in SwiftUI](https://www.vadimbulavin.com/asynchronous-swiftui-image-loading-from-url-with-combine-and-swift/)
 - [SwiftUI tips and tricks](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tips-and-tricks)
 - [An alternative to SwiftUI's stacks + Spacer combo](https://fivestars.blog/swiftui/stack-spacer-alternatives.html)
-- [ComponentsKit](https://github.com/componentskit/ComponentsKit) - A collection of reusable and fully customizable UI components.
 
 ### macOS
 
@@ -305,6 +304,7 @@ Introspect underlying UIKit components from SwiftUI
 - [ParticleDrivers](https://github.com/devwaseem/ParticleDrivers) - ParticleDrivers is a SwiftUI project that simulates particles forming structures on command
 - [liquid](https://github.com/maustinstar/liquid) - Create a playful backsplash in SwiftUI
 - [shiny](https://github.com/maustinstar/shiny) - Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View.
+- [ComponentsKit](https://github.com/componentskit/ComponentsKit) - A collection of reusable and fully customizable UI components.
 
 ## Open source apps
 
