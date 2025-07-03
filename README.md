@@ -218,6 +218,10 @@ Introspect underlying UIKit components from SwiftUI
 - [Snap](https://github.com/nerdsupremacist/Snap) - A customizable Snapping Drawer à la Apple Maps
 - [swiftui-drawer](https://github.com/maustinstar/swiftui-drawer) - A SwiftUI bottom-up controller, like in the Maps app. Drag to expand or minimize.
 
+### Modal (sheet)
+
+- [NativePartialSheet](https://github.com/CoolONEOfficial/NativePartialSheet) - A custom sheet's presentationDetents support from iOS 15.0
+
 ### Form
 
 - [TypeYouCard](https://github.com/alexejn/TypeYouCard) - SwiftUI Paycard form
