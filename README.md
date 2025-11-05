@@ -26,6 +26,7 @@
     + [Confetti](#confetti)
     + [Drawer](#drawer)
     + [Form](#form)
+    + [Gesture](#gesture)
     + [Grid](#grid)
     + [Icon](#icon)
     + [Indicator](#indicator)
@@ -221,6 +222,9 @@ Introspect underlying UIKit components from SwiftUI
 ### Form
 
 - [TypeYouCard](https://github.com/alexejn/TypeYouCard) - SwiftUI Paycard form
+
+### Gesture
+- [SwiftUI-DetectGestureUtil](https://github.com/Saw-000/SwiftUI-DetectGestureUtil) - This allows you to detect only one of multiple custom gestures on a single SwiftUI View.
 
 ### Grid
 
