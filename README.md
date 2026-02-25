@@ -343,6 +343,7 @@ Introspect underlying UIKit components from SwiftUI
 - [nuage](https://github.com/lbrndnr/nuage-macos) - A native SoundCloud app for macOS, written in SwiftUI
 - [writefreely](https://github.com/writeas/writefreely-swiftui-multiplatform) - Source code for the WriteFreely SwiftUI app for iOS, iPadOS, and macOS
 - [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) - Redirect Twitter, YouTube, Reddit, Google Maps, Google Search, and Google Translate to privacy friendly alternatives.
+- [Poirot](https://github.com/LeonardoCardoso/Poirot) - A macOS companion for browsing Claude Code sessions, exploring diffs, and re-running commands. Built with Swift 6, SwiftUI, and the Observation framework.
 
 ### MultiPlatform Applications
 
