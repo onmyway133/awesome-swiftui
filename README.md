@@ -318,6 +318,7 @@ Introspect underlying UIKit components from SwiftUI
 - [BeAware Deaf Assistant](https://github.com/BeAware-DeafAssistant/mobile) - SwiftUI app containing customizable noise alerts, speech-to-text and a supercharged notepad.
 - [DesignCode-SwiftUI](https://github.com/mythxn/DesignCode-SwiftUI) - An app fully written in SwiftUI showcasing beautiful design and animations.
 - [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - SwiftUI & Combine app using MovieDB API
+- [OpenCodex](https://github.com/mjmkk/opencodex) - Native iOS AI coding assistant using TCA + self-hosted Node.js backend, with real-time chat, remote terminal (PTY/WebSocket), and file browser for Claude/Codex AI
 - [SwiftUI-2048](https://github.com/unixzii/SwiftUI-2048) - A 2048 game writing with SwiftUI.
 - [swiftui-recipes-app](https://github.com/mecid/swiftui-recipes-app) - Recipes app written in SwiftUI using Single State Container
 - [SwiftUI-HackerNews](https://github.com/woxtu/SwiftUI-HackerNews) - A Hacker News reader built with SwiftUI+Combine 
