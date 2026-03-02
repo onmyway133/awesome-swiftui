@@ -344,6 +344,7 @@ Introspect underlying UIKit components from SwiftUI
 - [writefreely](https://github.com/writeas/writefreely-swiftui-multiplatform) - Source code for the WriteFreely SwiftUI app for iOS, iPadOS, and macOS
 - [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) - Redirect Twitter, YouTube, Reddit, Google Maps, Google Search, and Google Translate to privacy friendly alternatives.
 - [Poirot](https://github.com/LeonardoCardoso/Poirot) - A macOS companion for browsing Claude Code sessions, exploring diffs, and re-running commands. Built with Swift 6, SwiftUI, and the Observation framework.
+- [ClearDisk](https://github.com/bysiber/cleardisk) - Menu bar app to visualize and clean developer caches (Xcode, node_modules, CocoaPods, Docker, pip, Cargo) and reclaim disk space.
 
 ### MultiPlatform Applications
 
