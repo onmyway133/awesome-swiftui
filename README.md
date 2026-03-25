@@ -331,6 +331,7 @@ Introspect underlying UIKit components from SwiftUI
 - [swiftui.builds](https://github.com/FranckNdame/swiftui.builds) - building cool stuff with swiftui
 - [AR MultiPendulum](https://github.com/philipturner/ar-multipendulum) - AR app using SwiftUI for touchscreen interface
 - [OakOTP](https://github.com/AlexCatch/Oak) - SwiftUI app for generating OTP codes utilising MVVM, Dependency Injection, Core Data & Cloud Kit
+- [DailyVox](https://github.com/intrepidkarthi/dailyvox) - AI voice diary using SwiftUI with NaturalLanguage, Speech, Core Data, CloudKit. On-device transcription, mood tracking, Digital Twin.
 
 ### macOS
 
