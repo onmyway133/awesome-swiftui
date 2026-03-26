@@ -181,6 +181,7 @@ Introspect underlying UIKit components from SwiftUI
 ### Button
 
 - [FloatingButton](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI
+- [FloatingMenuButton](https://github.com/andr3a88/FloatingMenuButton) - A SwiftUI Floating Action Button that expands into a menu with multiple items when tapped.
 
 ### Calendar
 
