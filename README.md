@@ -347,6 +347,7 @@ Introspect underlying UIKit components from SwiftUI
 - [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) - Redirect Twitter, YouTube, Reddit, Google Maps, Google Search, and Google Translate to privacy friendly alternatives.
 - [Poirot](https://github.com/LeonardoCardoso/Poirot) - A macOS companion for browsing Claude Code sessions, exploring diffs, and re-running commands. Built with Swift 6, SwiftUI, and the Observation framework.
 - [ClearDisk](https://github.com/bysiber/cleardisk) - Menu bar app to visualize and clean developer caches (Xcode, node_modules, CocoaPods, Docker, pip, Cargo) and reclaim disk space.
+- [Lockpaw](https://github.com/sorkila/lockpaw) - macOS menu bar screen guard. Lock/unlock your screen with a hotkey while background tasks keep running.
 
 ### MultiPlatform Applications
 
