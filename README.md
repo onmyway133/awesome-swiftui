@@ -157,6 +157,7 @@ SwiftUI Image loading and Animation framework powered by SDWebImage
 
 - [SVG-to-SwiftUI](https://github.com/quassummanus/SVG-to-SwiftUI) - Tool to convert SVG to SwiftUI's Shape structure
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=onmyway133_awesome-swiftui) - Follow developers on GitHub and get a feed of what they star and build.
 ### Inspection
 
 - [ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime inspection and unit testing of SwiftUI views
