@@ -242,6 +242,7 @@ Introspect underlying UIKit components from SwiftUI
 - [FontAwesomeSwiftUI](https://github.com/onmyway133/FontAwesomeSwiftUI) - Easy to use FontAwesome 5 in SwiftUI
 - [SwiftUIFontIcon](https://github.com/huybuidac/SwiftUIFontIcon) - The easiest way to implement font icons in your SwiftUI project.
 - [SFSafeSymbols](https://github.com/piknotech/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing
+- [SFSymbolsKit](https://github.com/WikipediaBrown/SFSymbolsKit) - Typed String, UIImage, and NSImage APIs for every SF Symbol, generated from Apple's catalog
 
 ### Guide
 
