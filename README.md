@@ -78,6 +78,7 @@
 - [SwiftUI for iOS 14](https://designcode.io/swiftui-ios14) - Build a multi-platform app from scratch using the new techniques in iOS 14. We'll use the Sidebar and Lazy Grids to make the layout adaptive for iOS, iPadOS, macOS Big Sur
 - [SwiftUI Handbook](https://designcode.io/swiftui-handbook) - A comprehensive series of tutorials covering Xcode, SwiftUI and all the layout and development techniques
 - [SwiftUI Layout explained](https://www.objc.io/blog/2020/12/24/swiftui-layout-explained/) - We decided to go one step further, and reimplement SwiftUI’s layout system, along with the layout behavior of many built-in views
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ### Learning
 
