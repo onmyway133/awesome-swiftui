@@ -335,6 +335,7 @@ Introspect underlying UIKit components from SwiftUI
 - [AR MultiPendulum](https://github.com/philipturner/ar-multipendulum) - AR app using SwiftUI for touchscreen interface
 - [OakOTP](https://github.com/AlexCatch/Oak) - SwiftUI app for generating OTP codes utilising MVVM, Dependency Injection, Core Data & Cloud Kit
 - [DailyVox](https://github.com/intrepidkarthi/dailyvox) - AI voice diary using SwiftUI with NaturalLanguage, Speech, Core Data, CloudKit. On-device transcription, mood tracking, Digital Twin.
+- [HealthSync](https://github.com/megabyte0x/healthykit) - SwiftUI app that syncs selected Apple Health data from HealthKit to a private backend API.
 - [Pilgrim](https://github.com/walktalkmeditate/pilgrim-ios) - Mindful walking companion with on-device voice transcription, meditation mode, and digital goshuin seals. Full SwiftUI with Combine, CoreStore, WhisperKit, and Live Activities.
 
 ### macOS
