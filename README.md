@@ -263,6 +263,7 @@ Introspect underlying UIKit components from SwiftUI
 ### Onboarding
 
 - [ConcentricOnboarding](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions
+- [PermissionPilot](https://github.com/arpitagarwal1301/PermissionPilot) - Drop-in SwiftUI onboarding wizard and macOS permissions flow (detect, prompt, deep-link)
 
 ### Page
 
