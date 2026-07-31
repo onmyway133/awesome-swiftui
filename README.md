@@ -260,6 +260,10 @@ Introspect underlying UIKit components from SwiftUI
 - [SkeletonUI](https://github.com/CSolanaM/SkeletonUI) - Elegant skeleton loading animation in SwiftUI and Combine
 - [Laden](https://github.com/vinhnx/Laden) - SwiftUI loading indicator view
 
+### Map
+
+- [ImmersiveMap](https://github.com/artembobkin/ImmersiveMap) - A Metal-rendered vector-tile map engine for SwiftUI with a 3D globe, flat map and live avatar markers (iOS & macOS).
+
 ### Onboarding
 
 - [ConcentricOnboarding](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions
