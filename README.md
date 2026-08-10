@@ -135,6 +135,7 @@
 - [SwiftUI for Mac ](https://troz.net/post/2019/swiftui-for-mac-1/) - Try out a Mac app and see what happened.
 - [SwiftUI for Mac on Big Sur](https://troz.net/post/2020/swiftui_mac_big_sur/)
 - [AppKit is done](https://kean.blog/post/appkit-is-done) 
+- [Keeping a macOS Terminal UI Responsive During Large SSH Output Bursts](https://nexusshell.hashnode.dev/keeping-a-macos-terminal-ui-responsive-during-large-ssh-output-bursts) - Backpressure and frame-coalesced rendering for a SwiftUI and WebKit terminal.
 
 ## Libraries
 
