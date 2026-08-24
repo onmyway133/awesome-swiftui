@@ -66,6 +66,7 @@
 - [SwiftUI Weekly](http://weekly.swiftwithmajid.com/) - The curated collection of links about SwiftUI. Delivered every Monday
 - [iOS Dev Weekly](https://iosdevweekly.com/) - Curated by Dave Verwer and published every Friday
 - [iOS Goodies](https://ios-goodies.com/) - weekly iOS newsletter curated by Marius Constantinescu
+- [Storefront Brief](https://fortune-insight.onrender.com/shop/brief/index.html) - English weekly on iOS/indie App Store fees, ASO, and storefront ops ([RSS](https://fortune-insight.onrender.com/shop/brief/feed.xml), [Issue 1](https://fortune-insight.onrender.com/shop/brief/issue-001-en.html))
 
 ### Book
 
