@@ -344,6 +344,10 @@ Introspect underlying UIKit components from SwiftUI
 - [HealthSync](https://github.com/megabyte0x/healthykit) - SwiftUI app that syncs selected Apple Health data from HealthKit to a private backend API.
 - [Pilgrim](https://github.com/walktalkmeditate/pilgrim-ios) - Mindful walking companion with on-device voice transcription, meditation mode, and digital goshuin seals. Full SwiftUI with Combine, CoreStore, WhisperKit, and Live Activities.
 
+### tvOS
+
+- [RAYN Weather](https://github.com/qh-work/RAYN) - Native weather studio for Apple TV with live forecasts, radar, air quality, astronomy, marine conditions, and remote-first large-screen layouts.
+
 ### macOS
 
 - [RedditOS](https://github.com/Dimillian/RedditOS) - SwiftUI Reddit client for macOS Big Sur
