@@ -200,6 +200,10 @@ Introspect underlying UIKit components from SwiftUI
 - [GraphKit](https://github.com/Chronaemia/GraphKit) - Graphing library for SwiftUI 
 - [LightChart](https://github.com/pichukov/LightChart) SwiftUI charts
 
+### Chat
+
+- [swift-chat](https://github.com/unionst/swift-chat) - iMessage-faithful chat UI for SwiftUI: bubble tails, typing indicators, read receipts, attachments and keyboard handling in one `Chat` view
+
 ### Color
 
 - [DynamicColor](https://github.com/yannickl/DynamicColor) - Yet another extension to manipulate colors easily in Swift and SwiftUI
