@@ -372,6 +372,7 @@ Introspect underlying UIKit components from SwiftUI
 - [ItsPaint](https://github.com/joshlin2201/itspaint) - MS Paint for the Mac. A SwiftUI interface over an AppKit document and canvas, with screenshot markup, step badges, pixelate, and background removal that uses no model.
 - [Lyrimuse](https://github.com/Yudaotor/lyrimuse) - Word-synced desktop lyrics for Apple Music, Spotify and browser web players. SwiftUI overlay, Dynamic Island capsule, lyrics window and menu bar text, with candidates from nine lyric sources scored on one scale to match the right version.
 - [Tintpad](https://github.com/sorkila/tintpad) - Menu bar launcher for coding agents. A hotkey opens a palette, pick a repo, and your terminal opens there with Claude Code, Codex or any agent running. Built with Swift 6 and SwiftUI.
+- [Whisk](https://github.com/nathan-poncet/whisk) - Clipboard manager for macOS with a Paste-style Liquid Glass panel, pins, search operators, paste stack and rich previews. SwiftUI over a Clean Architecture kernel, SQLite storage.
 
 ### MultiPlatform Applications
 
