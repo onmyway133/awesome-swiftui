@@ -350,6 +350,7 @@ Introspect underlying UIKit components from SwiftUI
 - [HealthSync](https://github.com/megabyte0x/healthykit) - SwiftUI app that syncs selected Apple Health data from HealthKit to a private backend API.
 - [Pilgrim](https://github.com/walktalkmeditate/pilgrim-ios) - Mindful walking companion with on-device voice transcription, meditation mode, and digital goshuin seals. Full SwiftUI with Combine, CoreStore, WhisperKit, and Live Activities.
 - [FileManager](https://github.com/xsxs18-dev/FileManager) - A local, sideloaded file manager for iOS with Face ID-locked folders, a hidden vault, AES-256 encrypted zips, and real PDF passwords. No account, no backend, no analytics.
+- [HTMLViewer](https://github.com/xsxs18-dev/HTMLViewer) - A local HTML viewer and editor for iOS with a live WebView preview. No account, no backend, no analytics.
 
 ### tvOS
 
