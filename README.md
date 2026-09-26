@@ -377,6 +377,7 @@ Introspect underlying UIKit components from SwiftUI
 - [Tintpad](https://github.com/sorkila/tintpad) - Menu bar launcher for coding agents. A hotkey opens a palette, pick a repo, and your terminal opens there with Claude Code, Codex or any agent running. Built with Swift 6 and SwiftUI.
 - [Whisk](https://github.com/nathan-poncet/whisk) - Clipboard manager for macOS with a Paste-style Liquid Glass panel, pins, search operators, paste stack and rich previews. SwiftUI over a Clean Architecture kernel, SQLite storage.
 - [ApolloShell](https://github.com/Silvertree2010/ApolloShell) - Desktop shell for macOS 26 Tahoe: a sidebar with its own dock, a launcher, a dashboard and a control centre. SwiftUI views in AppKit panels with Liquid Glass, themed with one CSS file.
+- [ILoveNotch](https://github.com/niyamvora/ILoveNotch) - MacBook notch app for media, a file shelf, calendar, reminders, notes and timers. SwiftUI views in AppKit panels, event-driven with near-zero idle CPU.
 - [Lunavect](https://github.com/lovach/Lunavect) - Menu bar app for Claude Code and Codex that shows which session is working, waiting for you, or done, plus weekly and five-hour usage limits with reset times. Built with SwiftUI, with WidgetKit desktop widgets.
 
 ### MultiPlatform Applications
