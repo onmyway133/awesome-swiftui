@@ -380,6 +380,7 @@ Introspect underlying UIKit components from SwiftUI
 - [ILoveNotch](https://github.com/niyamvora/ILoveNotch) - MacBook notch app for media, a file shelf, calendar, reminders, notes and timers. SwiftUI views in AppKit panels, event-driven with near-zero idle CPU.
 - [Lunavect](https://github.com/lovach/Lunavect) - Menu bar app for Claude Code and Codex that shows which session is working, waiting for you, or done, plus weekly and five-hour usage limits with reset times. Built with SwiftUI, with WidgetKit desktop widgets.
 - [Meraline](https://github.com/Meldiron/meraline) - Menu bar app for quick AI questions on ⌥ Space: a Liquid Glass panel that doesn't take focus, answering with Apple Intelligence, API models, Ollama, or Claude Code and Codex. SwiftUI in a non-activating AppKit panel, Swift 6 with strict concurrency.
+- [Amber Notes](https://github.com/emilwagman/amber-notes) - Apple Notes-style notes app in SwiftUI that ChatGPT, Claude and Codex can search and edit over MCP, with each AI edit highlighted and undoable.
 
 ### MultiPlatform Applications
 
