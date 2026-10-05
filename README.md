@@ -204,7 +204,7 @@ Introspect underlying UIKit components from SwiftUI
 
 ### Chat
 
-- [swift-chat](https://github.com/unionst/swift-chat) - iMessage-faithful chat UI for SwiftUI: bubble tails, typing indicators, read receipts, attachments and keyboard handling in one `Chat` view
+- [swift-chat](https://github.com/unionst/swift-chat) - iMessage-faithful chat UI for SwiftUI: bubble tails, typing indicators, read receipts, attachments and keyboard handling in one `Chat` view, plus an assistant style for AI chat apps that streams Markdown replies under the question
 
 ### Color
 
@@ -337,6 +337,7 @@ Introspect underlying UIKit components from SwiftUI
 - [swiftui-recipes-app](https://github.com/mecid/swiftui-recipes-app) - Recipes app written in SwiftUI using Single State Container
 - [SwiftUI-HackerNews](https://github.com/woxtu/SwiftUI-HackerNews) - A Hacker News reader built with SwiftUI+Combine 
 - [Pomosh-iOS-watchOS](https://github.com/stevenselcuk/Pomosh-iOS-watchOS) - Pomodoro Technique assistant on iOS and WatchOS
+- [swift-chat-ai-starter](https://github.com/unionst/swift-chat-ai-starter) - Chat app that streams Claude's replies as Markdown, with photo input, built on Swift Chat
 - [Mamoot](https://github.com/Benetos/Mamoot) - Mastodon and Twitter client for iOS, iPadOS & macOS
 - [sfsymbols](https://github.com/atrinh0/sfsymbols) - SwiftUI app to search and showcase SF Symbols
 - [buttoncraft](https://github.com/atrinh0/buttoncraft) - Craft that perfect SwiftUI button effect 
