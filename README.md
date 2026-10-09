@@ -325,6 +325,7 @@ Introspect underlying UIKit components from SwiftUI
 - [liquid](https://github.com/maustinstar/liquid) - Create a playful backsplash in SwiftUI
 - [shiny](https://github.com/maustinstar/shiny) - Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View.
 - [ComponentsKit](https://github.com/componentskit/ComponentsKit) - A collection of reusable and fully customizable UI components.
+- [MuscleMap](https://github.com/melihcolpan/MuscleMap) - Interactive human body muscle maps with highlights, heatmaps, animations and tap gestures, plus a UIKit wrapper.
 
 ## Open source apps
 
