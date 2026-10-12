@@ -385,6 +385,7 @@ Introspect underlying UIKit components from SwiftUI
 - [Meraline](https://github.com/Meldiron/meraline) - Menu bar app for quick AI questions on ⌥ Space: a Liquid Glass panel that doesn't take focus, answering with Apple Intelligence, API models, Ollama, or Claude Code and Codex. SwiftUI in a non-activating AppKit panel, Swift 6 with strict concurrency.
 - [Amber Notes](https://github.com/emilwagman/amber-notes) - Apple Notes-style notes app in SwiftUI that ChatGPT, Claude and Codex can search and edit over MCP, with each AI edit highlighted and undoable.
 - [KyttoMCP](https://github.com/heyitsjakub/KyttoMCP) - Native SwiftUI app that shows every MCP server across Claude Desktop, Claude Code, Cursor, VS Code and Codex in one matrix, with health checks, a tool-description safety scan and config backups.
+- [Lemma](https://github.com/fus3r/lemma) - PDF reader for mathematics textbooks and papers, built with SwiftUI, AppKit and PDFKit, that turns theorem and equation references into links, folds proofs and checks the derivations you write.
 
 ### MultiPlatform Applications
 
