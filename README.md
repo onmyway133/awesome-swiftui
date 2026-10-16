@@ -386,6 +386,7 @@ Introspect underlying UIKit components from SwiftUI
 - [Pinto Notes](https://github.com/pinto-notes/pinto-notes) - Apple Notes-style notes app in SwiftUI that ChatGPT, Claude and Codex can search and edit over MCP, with each AI edit highlighted and undoable.
 - [KyttoMCP](https://github.com/heyitsjakub/KyttoMCP) - Native SwiftUI app that shows every MCP server across Claude Desktop, Claude Code, Cursor, VS Code and Codex in one matrix, with health checks, a tool-description safety scan and config backups.
 - [Lemma](https://github.com/fus3r/lemma) - PDF reader for mathematics textbooks and papers, built with SwiftUI, AppKit and PDFKit, that turns theorem and equation references into links, folds proofs and checks the derivations you write.
+- [Device Hub Pro](https://github.com/gitemre/device-hub-pro) - Manage and mirror Android emulators, phones and iOS simulators side by side, with a Controls panel, logs, screenshots, recordings and the iPhone Duo foldable simulator in 3D. Built with SwiftUI, Swift 6.
 
 ### MultiPlatform Applications
 
