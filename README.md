@@ -389,6 +389,7 @@ Introspect underlying UIKit components from SwiftUI
 - [Device Hub Pro](https://github.com/gitemre/device-hub-pro) - Manage and mirror Android emulators, phones and iOS simulators side by side, with a Controls panel, logs, screenshots, recordings and the iPhone Duo foldable simulator in 3D. Built with SwiftUI, Swift 6.
 - [Brow](https://github.com/efim0v/brow) - MacBook notch app with the 5-hour, weekly and model-specific Claude Code usage limits of every account, reset times and a reset calendar. SwiftUI views in an AppKit panel around the notch.
 - [Swivel](https://github.com/jonathanlotan/Swivel) - Menu bar file converter: tap a key mid-drag and drop files on a wheel to convert, crop, compress or share them, with no network code. SwiftUI wheel in a non-activating AppKit panel at the pointer.
+- [Boost](https://github.com/Kernel-Hunter/boost) - Menu bar app for memory and disk space: a week of memory history, pausing background apps instead of quitting them, cleanup of caches that rebuild themselves, and an uninstaller. Built with SwiftUI and AppKit, builds with Command Line Tools only.
 
 ### MultiPlatform Applications
 
