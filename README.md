@@ -388,6 +388,7 @@ Introspect underlying UIKit components from SwiftUI
 - [Lemma](https://github.com/fus3r/lemma) - PDF reader for mathematics textbooks and papers, built with SwiftUI, AppKit and PDFKit, that turns theorem and equation references into links, folds proofs and checks the derivations you write.
 - [Device Hub Pro](https://github.com/gitemre/device-hub-pro) - Manage and mirror Android emulators, phones and iOS simulators side by side, with a Controls panel, logs, screenshots, recordings and the iPhone Duo foldable simulator in 3D. Built with SwiftUI, Swift 6.
 - [Brow](https://github.com/efim0v/brow) - MacBook notch app with the 5-hour, weekly and model-specific Claude Code usage limits of every account, reset times and a reset calendar. SwiftUI views in an AppKit panel around the notch.
+- [Swivel](https://github.com/jonathanlotan/Swivel) - Menu bar file converter: tap a key mid-drag and drop files on a wheel to convert, crop, compress or share them, with no network code. SwiftUI wheel in a non-activating AppKit panel at the pointer.
 
 ### MultiPlatform Applications
 
