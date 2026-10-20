@@ -389,6 +389,9 @@ Introspect underlying UIKit components from SwiftUI
 - [Device Hub Pro](https://github.com/gitemre/device-hub-pro) - Manage and mirror Android emulators, phones and iOS simulators side by side, with a Controls panel, logs, screenshots, recordings and the iPhone Duo foldable simulator in 3D. Built with SwiftUI, Swift 6.
 - [Brow](https://github.com/efim0v/brow) - MacBook notch app with the 5-hour, weekly and model-specific Claude Code usage limits of every account, reset times and a reset calendar. SwiftUI views in an AppKit panel around the notch.
 - [Swivel](https://github.com/jonathanlotan/Swivel) - Menu bar file converter: tap a key mid-drag and drop files on a wheel to convert, crop, compress or share them, with no network code. SwiftUI wheel in a non-activating AppKit panel at the pointer.
+- [Cleaner](https://github.com/ciro-maciel/cleaner) - Mac cleaner whose rules live in one public JSON file, with an uninstaller, a disk map, startup items and a 7-day quarantine that restores removed items with one click. SwiftUI and AppKit, no network code.
+- [Screenshots](https://github.com/ciro-maciel/screenshots) - Menu bar screenshot and screen recording app with scrolling capture, on-device text recognition, MP4 and GIF recording, annotation and pin-to-screen. SwiftUI and AppKit over ScreenCaptureKit, no dependencies.
+- [Windows](https://github.com/ciro-maciel/windows) - Menu bar window manager that snaps windows to halves, full screen, center or custom sizes by shortcut or by dragging them to a screen edge. AppKit menu with SwiftUI settings, no dependencies.
 
 ### MultiPlatform Applications
 
