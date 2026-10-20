@@ -394,3 +394,5 @@ Introspect underlying UIKit components from SwiftUI
 
 - [DEV](https://github.com/hadiidbouk/DEV) - SwiftUI + Composable Architecture multiplatform app for dev.to website.
 - [StackOv](https://github.com/surfstudio/StackOv) - An open-source SwiftUI Stack Overflow client
+
+- [Prism](https://github.com/soma-intelligence/prism) - Health app for iPhone, iPad, Mac and Vision Pro that reads Apple Health and computes daily sleep, recovery, strain, stress and energy scores on device. One SwiftUI target, Swift 6, AGPL-3.0.
