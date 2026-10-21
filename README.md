@@ -160,6 +160,7 @@ SwiftUI Image loading and Animation framework powered by SDWebImage
 
 - [SVG-to-SwiftUI](https://github.com/quassummanus/SVG-to-SwiftUI) - Tool to convert SVG to SwiftUI's Shape structure
 - [IconVectors](https://iconvectors.io/help/developer-features.html#developer-code-targets) - Desktop SVG icon editor that generates SwiftUI Shape/Path drawing code; commercial software with a 30-day trial
+- [APPLORE Logo Animation](https://applore.app/logo-animation) - Web tool that animates a logo or app icon with AI and exports Lottie JSON for launch screens, playable in SwiftUI with lottie-ios's LottieView; free to try, paid plans for more
 
 ### Inspection
 
