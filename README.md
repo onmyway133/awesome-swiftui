@@ -355,6 +355,7 @@ Introspect underlying UIKit components from SwiftUI
 - [HTMLViewer](https://github.com/xsxs18-dev/HTMLViewer) - A local HTML viewer and editor for iOS with a live WebView preview. No account, no backend, no analytics.
 - [Verceltics](https://github.com/apoorvdarshan/verceltics) - Native SwiftUI iPhone and iPad workspace for 27 hosting, registrar, analytics and uptime services (Vercel, Cloudflare, Netlify, Search Console, Plausible, UptimeRobot and more), with credentials kept in the Keychain.
 - [Lyricar](https://github.com/noluyorAbi/lyricar) - Synced Spotify lyrics on the Lock Screen, Dynamic Island, widgets and CarPlay, built with Live Activities, WidgetKit, App Intents and CarPlay templates.
+- [Open Habit](https://github.com/zamai/open-habit) - Habit tracker with interactive widgets, App Intents for Shortcuts, a watchOS companion and CloudKit sync
 
 ### tvOS
 
@@ -395,6 +396,8 @@ Introspect underlying UIKit components from SwiftUI
 - [Cleaner](https://github.com/ciro-maciel/cleaner) - Mac cleaner whose rules live in one public JSON file, with an uninstaller, a disk map, startup items and a 7-day quarantine that restores removed items with one click. SwiftUI and AppKit, no network code.
 - [Screenshots](https://github.com/ciro-maciel/screenshots) - Menu bar screenshot and screen recording app with scrolling capture, on-device text recognition, MP4 and GIF recording, annotation and pin-to-screen. SwiftUI and AppKit over ScreenCaptureKit, no dependencies.
 - [Windows](https://github.com/ciro-maciel/windows) - Menu bar window manager that snaps windows to halves, full screen, center or custom sizes by shortcut or by dragging them to a screen edge. AppKit menu with SwiftUI settings, no dependencies.
+- [Plainsay](https://github.com/conrader/plainsay) - Native Mac menu-bar dictation built with SwiftUI and AppKit. Local mode runs Whisper or Parakeet, free with no account; optional paid Cloud transcription is available. MIT-licensed client, macOS 14+ and Apple silicon.
+- [SpaceMap](https://github.com/renkagod/spacemap) - Disk usage analyzer that draws your disk as a nested treemap you can zoom into, filling in live while the scan runs.
 
 ### MultiPlatform Applications
 
