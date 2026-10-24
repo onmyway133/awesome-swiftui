@@ -397,6 +397,7 @@ Introspect underlying UIKit components from SwiftUI
 - [Windows](https://github.com/ciro-maciel/windows) - Menu bar window manager that snaps windows to halves, full screen, center or custom sizes by shortcut or by dragging them to a screen edge. AppKit menu with SwiftUI settings, no dependencies.
 - [Plainsay](https://github.com/conrader/plainsay) - Native Mac menu-bar dictation built with SwiftUI and AppKit. Local mode runs Whisper or Parakeet, free with no account; optional paid Cloud transcription is available. MIT-licensed client, macOS 14+ and Apple silicon.
 - [SpaceMap](https://github.com/renkagod/spacemap) - Disk usage analyzer that draws your disk as a nested treemap you can zoom into, filling in live while the scan runs.
+- [AppDuo](https://github.com/tamia6/AppDuo) - Native macOS app cloner with separate data directories and custom names and icons.
 
 ### MultiPlatform Applications
 
