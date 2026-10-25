@@ -356,6 +356,7 @@ Introspect underlying UIKit components from SwiftUI
 - [HTMLViewer](https://github.com/xsxs18-dev/HTMLViewer) - A local HTML viewer and editor for iOS with a live WebView preview. No account, no backend, no analytics.
 - [Verceltics](https://github.com/apoorvdarshan/verceltics) - Native SwiftUI iPhone and iPad workspace for 27 hosting, registrar, analytics and uptime services (Vercel, Cloudflare, Netlify, Search Console, Plausible, UptimeRobot and more), with credentials kept in the Keychain.
 - [Open Habit](https://github.com/zamai/open-habit) - Habit tracker with interactive widgets, App Intents for Shortcuts, a watchOS companion and CloudKit sync
+- [Fud AI](https://github.com/apoorvdarshan/fud-ai) - Calorie and workout tracker for iPhone, iPad and Apple Watch: multi-photo AI food analysis with your own provider key, realtime voice logging, HealthKit, WidgetKit, App Intents for Siri and an on-device Apple Intelligence fallback
 
 ### tvOS
 
