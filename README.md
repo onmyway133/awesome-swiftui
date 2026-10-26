@@ -327,6 +327,7 @@ Introspect underlying UIKit components from SwiftUI
 - [ComponentsKit](https://github.com/componentskit/ComponentsKit) - A collection of reusable and fully customizable UI components.
 - [MuscleMap](https://github.com/melihcolpan/MuscleMap) - Interactive human body muscle maps with highlights, heatmaps, animations and tap gestures, plus a UIKit wrapper.
 - [Swift95](https://github.com/DimaMishchenko/swift95) - A Windows 95-inspired SwiftUI component library for building nostalgic apps.
+- [WishKit](https://github.com/wishkit/wishkit-ios) - In-app feature request board where users submit and vote on features.
 
 ## Open source apps
 
