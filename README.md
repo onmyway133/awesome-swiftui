@@ -358,6 +358,7 @@ Introspect underlying UIKit components from SwiftUI
 - [Verceltics](https://github.com/apoorvdarshan/verceltics) - Native SwiftUI iPhone and iPad workspace for 27 hosting, registrar, analytics and uptime services (Vercel, Cloudflare, Netlify, Search Console, Plausible, UptimeRobot and more), with credentials kept in the Keychain.
 - [Open Habit](https://github.com/zamai/open-habit) - Habit tracker with interactive widgets, App Intents for Shortcuts, a watchOS companion and CloudKit sync
 - [Fud AI](https://github.com/apoorvdarshan/fud-ai) - Calorie and workout tracker for iPhone, iPad and Apple Watch: multi-photo AI food analysis with your own provider key, realtime voice logging, HealthKit, WidgetKit, App Intents for Siri and an on-device Apple Intelligence fallback
+- [Waybill](https://github.com/Yvsleyen00941/Waybill) - Tactile 3D logistics idle diorama game for iPad built with RealityKit and SwiftUI
 
 ### tvOS
 
@@ -401,6 +402,7 @@ Introspect underlying UIKit components from SwiftUI
 - [Plainsay](https://github.com/conrader/plainsay) - Native Mac menu-bar dictation built with SwiftUI and AppKit. Local mode runs Whisper or Parakeet, free with no account; optional paid Cloud transcription is available. MIT-licensed client, macOS 14+ and Apple silicon.
 - [SpaceMap](https://github.com/renkagod/spacemap) - Disk usage analyzer that draws your disk as a nested treemap you can zoom into, filling in live while the scan runs.
 - [AppDuo](https://github.com/tamia6/AppDuo) - Native macOS app cloner with separate data directories and custom names and icons.
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Unified daily productivity heads-up display for macOS consolidating Calendar, Music, Notion, and Mail into a modular control surface.
 - [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - Menu bar app that saves window layouts per external monitor and restores window positions, sizes and Mission Control Spaces on reconnect, with hardware DDC brightness keys on Apple Silicon. Built with Swift 6, SwiftUI and AppKit.
 
 ### MultiPlatform Applications
