@@ -328,6 +328,7 @@ Introspect underlying UIKit components from SwiftUI
 - [MuscleMap](https://github.com/melihcolpan/MuscleMap) - Interactive human body muscle maps with highlights, heatmaps, animations and tap gestures, plus a UIKit wrapper.
 - [Swift95](https://github.com/DimaMishchenko/swift95) - A Windows 95-inspired SwiftUI component library for building nostalgic apps.
 - [WishKit](https://github.com/wishkit/wishkit-ios) - In-app feature request board where users submit and vote on features.
+- [DESIGN:OS Apple](https://github.com/jangtrinh/design-os-apple) - A free SwiftUI design-system library for iOS, iPadOS and macOS with semantic color tokens, Dynamic Type-safe components and a Gallery app (source-available).
 
 ## Open source apps
 
