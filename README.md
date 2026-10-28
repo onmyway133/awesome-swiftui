@@ -403,6 +403,7 @@ Introspect underlying UIKit components from SwiftUI
 - [SpaceMap](https://github.com/renkagod/spacemap) - Disk usage analyzer that draws your disk as a nested treemap you can zoom into, filling in live while the scan runs.
 - [AppDuo](https://github.com/tamia6/AppDuo) - Native macOS app cloner with separate data directories and custom names and icons.
 - [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - Menu bar app that saves window layouts per external monitor and restores window positions, sizes and Mission Control Spaces on reconnect, with hardware DDC brightness keys on Apple Silicon. Built with Swift 6, SwiftUI and AppKit.
+- [UMST](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool) - Desktop calendar widget and menu bar quick add that combine Google, iCloud, Outlook, Apple Reminders, Canvas, Todoist, Asana and Trello in one list.
 
 ### MultiPlatform Applications
 
