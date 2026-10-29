@@ -359,6 +359,7 @@ Introspect underlying UIKit components from SwiftUI
 - [Verceltics](https://github.com/apoorvdarshan/verceltics) - Native SwiftUI iPhone and iPad workspace for 27 hosting, registrar, analytics and uptime services (Vercel, Cloudflare, Netlify, Search Console, Plausible, UptimeRobot and more), with credentials kept in the Keychain.
 - [Open Habit](https://github.com/zamai/open-habit) - Habit tracker with interactive widgets, App Intents for Shortcuts, a watchOS companion and CloudKit sync
 - [Fud AI](https://github.com/apoorvdarshan/fud-ai) - Calorie and workout tracker for iPhone, iPad and Apple Watch: multi-photo AI food analysis with your own provider key, realtime voice logging, HealthKit, WidgetKit, App Intents for Siri and an on-device Apple Intelligence fallback
+- [Tuber](https://github.com/achubnet/Tuber) - Calm player for the YouTube channels you follow that skips in-video sponsor reads via SponsorBlock. SwiftUI with Liquid Glass, SwiftData + CloudKit, AVKit, App Intents.
 
 ### tvOS
 
