@@ -411,6 +411,13 @@ Introspect underlying UIKit components from SwiftUI
 - [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - Menu bar app that saves window layouts per external monitor and restores window positions, sizes and Mission Control Spaces on reconnect, with hardware DDC brightness keys on Apple Silicon. Built with Swift 6, SwiftUI and AppKit.
 - [UMST](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool) - Desktop calendar widget and menu bar quick add that combine Google, iCloud, Outlook, Apple Reminders, Canvas, Todoist, Asana and Trello in one list.
 - [Louppe](https://github.com/murlexander/louppe-media-culler) - Photo viewer and sorter for JPEG and RAW folders: choose keepers with the keyboard and copy them without a library import. SwiftUI over AppKit for zoom and video, with XMP sidecar export.
+- [Memo Export](https://github.com/stanczykwyatt/memo-export) - Menu bar app that exports Voice Memos recordings as audio plus Markdown notes with timestamped transcripts, adding only new memos each run. Built with Swift 6, SwiftUI and AppKit.
+- [Podcast Export](https://github.com/stanczykwyatt/podcast-export) - Menu bar app that saves Apple Podcasts subscriptions as OPML and your listening history as Markdown, CSV and JSON. Built with Swift 6, SwiftUI and AppKit.
+- [Reading List Export](https://github.com/stanczykwyatt/reading-list-export) - Menu bar app that exports the Safari Reading List as Markdown, a bookmarks file and an Instapaper-style CSV, read status included. Built with Swift 6, SwiftUI and AppKit.
+- [Unblock Eject](https://github.com/stanczykwyatt/unblock-eject) - Menu bar app that shows which apps and processes keep a disk from ejecting, quits the one you pick politely and ejects. Built with Swift 6, SwiftUI and AppKit.
+- [Next Departures](https://github.com/stanczykwyatt/next-departures) - Menu bar app with live next departures from any GTFS-realtime transit feed, with delays, cancellations and alerts. Built with Swift 6, SwiftUI and AppKit.
+- [Right Folder](https://github.com/stanczykwyatt/right-folder) - Puts the folders open in Finder, recent folders and favorites beside every Open and Save dialog, one click or a shortcut away. Built with Swift 6, SwiftUI and AppKit.
+- [Tonecap](https://github.com/stanczykwyatt/tonecap) - Menu bar app that plays mechanical keyboard sounds as you type, synthesized from switch, plate, case and keycap settings instead of recordings. Built with Swift 6, SwiftUI and AVAudioEngine.
 
 ### MultiPlatform Applications
 
