@@ -133,6 +133,7 @@
 - [SwiftUI Sound Effects: AVAudioEngine Patterns for Button Taps](https://blipblip.click/swiftui-sound-effects)
 
 ### macOS
+- [Needle](https://github.com/Yvsleyen00941/Needle) - What's playing on your Mac in the empty corner beside the Dock: the album cover and title in its dominant colour.
 
 - [SwiftUI for Mac ](https://troz.net/post/2019/swiftui-for-mac-1/) - Try out a Mac app and see what happened.
 - [SwiftUI for Mac on Big Sur](https://troz.net/post/2020/swiftui_mac_big_sur/)
