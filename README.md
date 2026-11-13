@@ -419,6 +419,7 @@ Introspect underlying UIKit components from SwiftUI
 - [UMST](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool) - Desktop calendar widget and menu bar quick add that combine Google, iCloud, Outlook, Apple Reminders, Canvas, Todoist, Asana and Trello in one list.
 - [Louppe](https://github.com/murlexander/louppe-media-culler) - Photo viewer and sorter for JPEG and RAW folders: choose keepers with the keyboard and copy them without a library import. SwiftUI over AppKit for zoom and video, with XMP sidecar export.
 - [Menew](https://github.com/Quost/menew) - Menu bar toolkit: clipboard history, command palette, system monitor, notch panels and on-device AI
+- [vsux](https://github.com/shadowDragons/vsux) - Native Mac editor for parallel project workspaces with split terminals, file editing, Git review, saved commands and background services. Built with SwiftUI and AppKit.
 
 ### MultiPlatform Applications
 
