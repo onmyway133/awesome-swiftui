@@ -239,6 +239,7 @@ Introspect underlying UIKit components from SwiftUI
 
 ### Gesture
 - [SwiftUI-DetectGestureUtil](https://github.com/Saw-000/SwiftUI-DetectGestureUtil) - This allows you to detect only one of multiple custom gestures on a single SwiftUI View.
+- [SwipeSelect](https://github.com/Mironlive/swipe-select-swiftui) - Photos-style swipe to multi-select for SwiftUI lists and grids, with auto-scroll
 
 ### Grid
 
