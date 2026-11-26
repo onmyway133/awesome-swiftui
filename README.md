@@ -390,6 +390,7 @@ Introspect underlying UIKit components from SwiftUI
 - [ClearDisk](https://github.com/bysiber/cleardisk) - Menu bar app to visualize and clean developer caches (Xcode, node_modules, CocoaPods, Docker, pip, Cargo) and reclaim disk space.
 - [Dusty](https://github.com/yagcioglutoprak/dusty) - SwiftUI menu bar cleaner for reclaiming disk space from safe macOS caches, logs, Xcode data, and developer artifacts.
 - [Lockpaw](https://github.com/sorkila/lockpaw) - macOS menu bar screen guard. Lock/unlock your screen with a hotkey while background tasks keep running.
+- [OhMyShot](https://github.com/MMFoundation/OhMyShot) - Native macOS menu bar app for screenshots, scrolling capture, annotation, pinning, screen recording, and on-device OCR, built with Swift 6, SwiftUI, and AppKit.
 - [Rime](https://github.com/Yvsleyen00941/Rime) - Minimalist macOS PDF reader where everything outside the page freezes into frosted ice for distraction-free focus.
 - [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native SwiftUI macOS workspace dashboard and daily heads-up display with a 24h dial and triage signals.
 - [Tape](https://github.com/Yvsleyen00941/Tape) - Stock ticker for macOS in the empty corner beside the Dock: one listing at a time, in its logo's colour.
