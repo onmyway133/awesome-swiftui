@@ -370,6 +370,7 @@ Introspect underlying UIKit components from SwiftUI
 - [Oath Wallet](https://github.com/devdasx/oath-wallet) - SwiftUI wallet for iPhone and iPad with multi-network asset views and transfer review screens.
 
 - [Wudland](https://github.com/joexk1/wudland) - SwiftUI iPhone pixel village for calendar events, reminders, weather and encrypted coding-agent status. GPLv3; App Store review pending.
+- [StackConnect](https://github.com/r1b2ns/stack-connect) - App Store Connect and Firebase on iPhone and iPad: versions, metadata, TestFlight, reviews, certificates and Remote Config. Offline-first with SwiftData, keys in the Keychain, no server in between
 
 ### tvOS
 
